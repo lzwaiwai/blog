@@ -1,1 +1,1 @@
-# [Blog](https://github.com/sorrycc/blog/issues)
+# [Blog](https://github.com/lzwaiwai/blog/issues)
